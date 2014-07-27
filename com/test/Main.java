@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Initial");
 		System.out.println("2014-07-20: VS: Test after Epicentet");
 		System.out.println("2014-07-24: VS: Another Test");
+		System.out.println("2014-07-24: VS_2: Sunday. Workers install doors");
 	}
 
 }
